@@ -1,9 +1,9 @@
 ### Hi there 👋
-This is the place where I code stuff and break things :rofl:
+This is the place where I code 👨🏻‍💻
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML and Software Development
-- 💬 Ask me about anything related to Python, Data Engineering or Data Science
+- 💬 Ask me about anything related to Data Science or Software development
 - 📫 How to reach me: [@khare_anshaj](https://twitter.com/khare_anshaj)
 - ⚡ Fun fact: I :heart: :dog:s
 
