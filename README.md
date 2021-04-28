@@ -2,10 +2,9 @@
 This is the place where I code 👨🏻‍💻
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML and Software Development
-- 💬 Ask me about anything related to Data Science or Software development
+- 🌱 I’m currently learning ML and software development
+- 💬 Ask me about anything related to software, ML or astronomy
 - 📫 How to reach me: [@khare_anshaj](https://twitter.com/khare_anshaj)
-- ⚡ Fun fact: I :heart: :dog:s
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
