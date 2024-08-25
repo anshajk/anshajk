@@ -1,12 +1,15 @@
 ### Hi there 👋
-This is the place where I code 👨🏻‍💻
+This is the place where I git gud (pun intended) 👨🏻‍💻
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning ML and software development
+- 🔭 I’m currently in a planning phase, where I'm conceptualising some of the things I want to implement
+- 🌱 I’m currently learning devops
 - 💬 Ask me about anything related to software, ML or astronomy
-- 📫 How to reach me: [@khare_anshaj](https://twitter.com/khare_anshaj)
 
-📕 **Latest Blog Posts**
+You can connect with me here - https://topmate.io/anshaj
+  
+I currently write at https://thecomputeblog.substack.com
+
+📕 **Auto generated dev.to blog posts**
 <!-- BLOG-POST-LIST:START -->
 - [How I cleared my AWS Developer associate exam and here&#39;s how you can do it too](https://dev.to/anshaj/how-i-cleared-my-aws-developer-associate-exam-and-here-s-how-you-can-do-it-too-1fpl)
 - [How I created a CD pipeline for Firebase RemoteConfig using GitHub actions](https://dev.to/anshaj/how-i-created-a-cd-pipeline-for-firebase-remoteconfig-using-github-actions-2i4j)
